@@ -1,4 +1,4 @@
-# Runs on CodeSkulptor.com
+# Runs on CodeSkulptor.org
 # Mini-project #6 - Blackjack
 
 import simplegui

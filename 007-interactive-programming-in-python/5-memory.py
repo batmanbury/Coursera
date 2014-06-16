@@ -1,4 +1,4 @@
-# Runs on CodeSkulptor.com
+# Runs on CodeSkulptor.org
 # implementation of card game - Memory
 
 import simplegui

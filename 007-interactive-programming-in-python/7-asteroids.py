@@ -1,4 +1,4 @@
-# Runs on CodeSkulptor.com
+# Runs on CodeSkulptor.org
 # program template for Spaceship
 
 import simplegui
